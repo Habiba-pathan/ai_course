@@ -1,1 +1,19 @@
+age = 10
+print(age)
+print(type(age))
 
+per = 85.56
+print(per)
+print(type(per))
+
+name = "ABC"
+print(name)
+print(type(name))
+
+isPreaent = True
+print(isPreaent)
+print(type(isPreaent))
+
+class_ai = None
+print(class_ai)
+print(type(class_ai))
