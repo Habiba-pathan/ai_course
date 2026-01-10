@@ -1,1 +1,35 @@
+question = input("Ask any question related to IT:")
 
+if question=="What is IT":
+    print("IT stands for Information Technology. It is the use of computers to store, process, and share information.")
+elif question=="What is a computer":
+    print("A computer is an electronic device that accepts data, processes it, and produces output.")
+elif question=="What is hardware":
+    print("Hardware refers to the physical parts of a computer system, such as keyboard, mouse, and CPU.")
+elif question=="What is software":
+    print("Software is a set of programs that instruct a computer on what to do.")
+elif question=="What is an operating system":
+    print("An operating system manages computer hardware and software resources.")
+elif question=="What is CPU":
+    print("CPU (Central Processing Unit) is the brain of the computer that performs calculations and controls operations.")
+elif question=="What is RAM":
+    print("RAM (Random Access Memory) temporarily stores data and programs currently in use.")
+elif question=="What is storage":
+    print("Storage is used to save data permanently, such as hard disk and SSD.")
+elif question=="What is a network":
+    print("A network is a group of connected computers that share resources and information.")
+elif question=="What is the Internet":
+    print("The Internet is a worldwide network that connects millions of computers.")
+elif question=="What is a database":
+
+    print("A database is an organized collection of data that allows easy access and management.")
+elif question=="What is programming":
+    print("Programming is the process of writing instructions for a computer to perform tasks.")
+elif question=="What is Python":
+    print("Python is a high-level programming language known for its simplicity and readability.")
+elif question=="What is cybersecurity":
+    print("Cybersecurity is the practice of protecting systems, networks, and data from digital attacks.")
+elif question=="What is cloud computing":
+    print("Cloud computing provides computing services like storage and software over the Internet.")
+else:
+    print("Sorry, I can answer only predefined IT questions.")
