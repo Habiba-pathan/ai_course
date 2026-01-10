@@ -1,1 +1,4 @@
+name = "Habiba"
+std = 10
 
+print(f"Hello ,My name is {name}, I'am in {std} std ")#f formating String
